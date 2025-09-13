@@ -5,3 +5,4 @@ The **Olympics Data Analysis Web App**, built with **Streamlit**, uses **Python*
 
 
 Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+Project link: [ sagarkrmahato/olympics-data-analysis](https://huggingface.co/spaces/sagarkrmahato/olympics-data-analysis)
